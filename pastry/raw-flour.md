@@ -1,6 +1,7 @@
 
 ** Raw flour **
-- Technically pastry
+- Technically NOT pastry
+
 
 -- Instructions
 - Enaoy
