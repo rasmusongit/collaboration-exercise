@@ -19,6 +19,7 @@
 - **Salt and pepper** to taste
 - **1 teaspoon** dried oregano or Italian seasoning
 - **Fresh basil** for garnish (optional)
+- **Oregano**
 
 
 ## Instructions
