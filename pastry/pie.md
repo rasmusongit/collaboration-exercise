@@ -6,5 +6,6 @@
 - **0.5 dL** olive oil
 - **1 dL** water
 
+- **1 kg** sugar
 ## Instructions
 - Mix and bake
