@@ -25,5 +25,5 @@
    - Meanwhile preheat oven to 225°C
 
 4. **Bake:**
-   - Transfer dough to pan
-   - Bake for 30 minutes until golden and crispy
+   - Transfer dough to oven-plate
+   - Bake for 30 minutes at deg C 200 until golden and crispy
